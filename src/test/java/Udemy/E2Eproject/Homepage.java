@@ -33,6 +33,10 @@ public class Homepage extends Base {
 		
 	}
 	
+	public void print() {
+		System.out.println("Changes made");
+	}
+	
 	
 	@Test(dataProvider="getData")
 	
