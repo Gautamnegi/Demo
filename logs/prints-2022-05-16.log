@@ -1,0 +1,7 @@
+09:11:57.932 [TestNG-tests-1] INFO  Udemy.E2Eproject.Homepage - opening website
+09:11:58.544 [TestNG-tests-1] INFO  Udemy.E2Eproject.Homepage - entering credentials
+09:12:07.372 [TestNG-tests-1] INFO  Udemy.E2Eproject.Homepage - opening website
+09:12:07.640 [TestNG-tests-1] INFO  Udemy.E2Eproject.Homepage - entering credentials
+09:16:16.797 [TestNG-tests-1] INFO  Udemy.E2Eproject.Homepage - initializing driver
+09:16:34.407 [TestNG-tests-1] INFO  Udemy.E2Eproject.Homepage - opening website
+09:16:34.930 [TestNG-tests-1] INFO  Udemy.E2Eproject.Homepage - entering credentials
