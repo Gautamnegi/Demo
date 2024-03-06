@@ -22,6 +22,7 @@ public class Rezolve {
 			
 		}
 		Thread.sleep(5000);
+		//dev 2 changes
 		
 		//Get window  Handles of both browser window
 		Set<String> windowHandleIds = driver.getWindowHandles();
