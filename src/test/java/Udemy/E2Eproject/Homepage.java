@@ -74,10 +74,11 @@ public class Homepage extends Base {
 		
 		return obj;
 	}
-	
+
 	@AfterTest
 
-	
+// New change
+//new change 1	
 	public void closeBrowser()
 	{
 		driver.close();
