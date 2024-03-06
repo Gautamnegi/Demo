@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src/main/java">
+=======
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+>>>>>>> 5d375d3038cc67e63fa9ae9228164e75797a63b8
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>

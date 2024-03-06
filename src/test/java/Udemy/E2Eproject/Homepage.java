@@ -33,12 +33,6 @@ public class Homepage extends Base {
 		
 	}
 	
-	public void print() {
-		System.out.println("Changes made");
-		System.out.println("Changes made again");
-		System.out.println("New branch created");
-	}
-	
 	
 	@Test(dataProvider="getData")
 	
@@ -80,9 +74,10 @@ public class Homepage extends Base {
 		
 		return obj;
 	}
-	
-	//other dev changes
+
 	@AfterTest
+
+// New change
 	
 	public void closeBrowser()
 	{

@@ -3,6 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="Udemy.E2Eproject.Title">
         <methods>
           <include name="closeBrowser"/>
@@ -10,6 +11,13 @@
           <include name="opensite"/>
         </methods>
       </class> <!-- Udemy.E2Eproject.Title -->
+=======
+      <class name="Udemy.E2Eproject.Rezolve">
+        <methods>
+          <include name="opensite"/>
+        </methods>
+      </class> <!-- Udemy.E2Eproject.Rezolve -->
+>>>>>>> 5d375d3038cc67e63fa9ae9228164e75797a63b8
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
