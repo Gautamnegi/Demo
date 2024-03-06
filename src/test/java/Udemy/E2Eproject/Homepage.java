@@ -33,15 +33,6 @@ public class Homepage extends Base {
 		
 	}
 	
-<<<<<<< HEAD
-	public void print() {
-		System.out.println("Changes made");
-		System.out.println("Changes made again");
-		System.out.println("New branch created");
-	}
-	
-=======
->>>>>>> 5d375d3038cc67e63fa9ae9228164e75797a63b8
 	
 	@Test(dataProvider="getData")
 	
@@ -67,10 +58,7 @@ public class Homepage extends Base {
 		
 	}
 
-//new change
-//gautam branch change
-	
-	
+
 	@DataProvider                                                //we use dataprovider for parameterization of testcase
 																//so we can provide more than 1 types of data for same testcase
 	
