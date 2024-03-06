@@ -44,6 +44,7 @@ public class Rezolve {
 		driver.findElement(By.xpath("//input[@id='loginPassword']")).sendKeys("8630728362Reddit");
 		
 		Thread.sleep(10000);
+		//dev 1 changes
 	}
 
 }
